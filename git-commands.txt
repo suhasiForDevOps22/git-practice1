@@ -3,3 +3,7 @@ git init
 git restore
 git log
 git status
+
+git log --oneline
+git push
+git pull
